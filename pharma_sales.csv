@@ -1,0 +1,9 @@
+Date,Region,Product,Sales_Rep,Revenue,Units_Sold
+1/1/2023,Europe,Drug A,John,12000,100
+1/1/2023,Europe,Drug B,Maria,15000,120
+1/1/2023,Asia,Drug A,Nick,9000,80
+2/1/2023,Europe,Drug A,John,14000,110
+2/1/2023,Asia,Drug B,Nick,11000,95
+2/1/2023,USA,Drug C,Anna,20000,150
+3/1/2023,USA,Drug A,Anna,18000,140
+3/1/2023,Europe,Drug C,Maria,16000,130
