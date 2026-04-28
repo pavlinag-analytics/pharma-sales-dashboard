@@ -1,4 +1,4 @@
-# Pharma Sales Intelligence Dashboard
+# Pharma Sales Dashboard
 
 ## Overview
 This project is an interactive Power BI dashboard analyzing pharmaceutical sales performance across regions, products, and sales representatives.  
